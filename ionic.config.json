@@ -1,0 +1,7 @@
+{
+  "name": "Cofamove-android",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
